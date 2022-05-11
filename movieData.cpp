@@ -654,7 +654,7 @@ int main ()
 		cin >> showMenu;
 	} while (showMenu == 'y');
 
-	cout << "\n\nThank you !!!!"<< endl;
+	cout << "\n\nThank you !!!"<< endl;
 	getch ();
 	return 0;
 }
