@@ -1,2 +1,2 @@
 # Movies-Database
-My first personal coding project
+Personal coding project
